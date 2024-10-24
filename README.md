@@ -6,4 +6,4 @@ Link to dataset: https://drive.google.com/drive/folders/1DAzQfZU8LxRCHtQ-FtrCWMc
 
 Trained on Clemson's Palmetto Cluster.  Tutorial to train model to come soon if requested.
 
-Todo: retrain the ResNet50 model and make sure it runs to completion, train a new model that has potential to do better, and make a user friendly interface for the Library Depot users.
+Todo: retrain the ResNet50 model and make sure it runs to completion, evaluate the model and make visuals to show its performance, train a new model that has potential to do better, and make a user friendly interface for the Library Depot users.
