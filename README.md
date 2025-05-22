@@ -9,3 +9,6 @@ Trained on Clemson's Palmetto Cluster.
 https://paperswithcode.com/paper/model-soups-averaging-weights-of-multiple
 https://paperswithcode.com/sota/image-classification-on-imagenet
 https://paperswithcode.com/sota/image-classification-on-cifar-10
+
+
+https://colab.research.google.com/drive/1wXL54N0x_mKoFLXX2LG5dpviElvGLS9w?usp=sharing
